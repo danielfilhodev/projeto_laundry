@@ -242,7 +242,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20a6bb', end
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
-	background: #053740;
+	background: #0a4b55;
+	//background: #053740;
 }
 .categories {
 	padding-bottom: 30px;
