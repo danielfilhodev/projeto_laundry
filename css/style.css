@@ -157,6 +157,13 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro .overlay {
 	padding: 100px 0;
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff0000+0,7db9e8+100&1+0,0+100 */
+background: -moz-linear-gradient(-45deg, rgba(255,0,0,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, rgba(255,0,0,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, rgba(255,0,0,1) 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#007db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */	
+
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#053740+0,053740+100&1+0,0.6+100 */
 	//background: -moz-linear-gradient(top, rgba(5,55,64,1) 0%, rgba(5,55,64,0.6) 100%); /* FF3.6-15 */
 	//background: -webkit-linear-gradient(top, rgba(5,55,64,1) 0%, rgba(5,55,64,0.6) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -164,10 +171,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#053740', endColorstr='#99053740', GradientType=0 ); /* IE6-9 */
 
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e379a+0,7ebae8+100&1+16,1+16,0.7+49,0+91 */
-background: -moz-linear-gradient(-45deg, rgba(30,55,154,1) 0%, rgba(45,76,166,1) 16%, rgba(77,119,192,0.7) 49%, rgba(117,174,225,0) 91%, rgba(126,186,232,0) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg, rgba(30,55,154,1) 0%,rgba(45,76,166,1) 16%,rgba(77,119,192,0.7) 49%,rgba(117,174,225,0) 91%,rgba(126,186,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg, rgba(30,55,154,1) 0%,rgba(45,76,166,1) 16%,rgba(77,119,192,0.7) 49%,rgba(117,174,225,0) 91%,rgba(126,186,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e379a', endColorstr='#007ebae8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+//background: -moz-linear-gradient(-45deg, rgba(30,55,154,1) 0%, rgba(45,76,166,1) 16%, rgba(77,119,192,0.7) 49%, rgba(117,174,225,0) 91%, rgba(126,186,232,0) 100%); /* FF3.6-15 */
+//background: -webkit-linear-gradient(-45deg, rgba(30,55,154,1) 0%,rgba(45,76,166,1) 16%,rgba(77,119,192,0.7) 49%,rgba(117,174,225,0) 91%,rgba(126,186,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
+//background: linear-gradient(135deg, rgba(30,55,154,1) 0%,rgba(45,76,166,1) 16%,rgba(77,119,192,0.7) 49%,rgba(117,174,225,0) 91%,rgba(126,186,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e379a', endColorstr='#007ebae8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
 }
 .section-title {
